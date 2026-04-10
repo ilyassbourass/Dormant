@@ -4,6 +4,14 @@ This repository hosts public signed APK releases for **Dormant**.
 
 Dormant is an Android app manager focused on freezing, force-stopping, protecting, and organizing apps from one place.
 
+## Screenshots
+
+![Dormant Home](assets/screenshots/01-home.png)
+![Dormant Apps](assets/screenshots/02-apps.png)
+![Dormant Actions](assets/screenshots/03-actions.png)
+![Dormant Settings](assets/screenshots/04-settings.png)
+![Dormant About](assets/screenshots/05-about.png)
+
 ## Download
 
 1. Open the [Releases](https://github.com/ilyassbourass/Dormant-Releases/releases) page.
