@@ -6,11 +6,28 @@ Dormant is an Android app manager focused on freezing, force-stopping, protectin
 
 ## Screenshots
 
-![Dormant Home](assets/screenshots/01-home.png)
-![Dormant Apps](assets/screenshots/02-apps.png)
-![Dormant Actions](assets/screenshots/03-actions.png)
-![Dormant Settings](assets/screenshots/04-settings.png)
-![Dormant About](assets/screenshots/05-about.png)
+Click any screenshot to open it full size.
+
+<p align="center">
+  <a href="assets/screenshots/01-home.png">
+    <img src="assets/screenshots/01-home.png" alt="Dormant Home" width="180" />
+  </a>
+  <a href="assets/screenshots/02-apps.png">
+    <img src="assets/screenshots/02-apps.png" alt="Dormant Apps" width="180" />
+  </a>
+  <a href="assets/screenshots/03-actions.png">
+    <img src="assets/screenshots/03-actions.png" alt="Dormant Actions" width="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/04-settings.png">
+    <img src="assets/screenshots/04-settings.png" alt="Dormant Settings" width="180" />
+  </a>
+  <a href="assets/screenshots/05-about.png">
+    <img src="assets/screenshots/05-about.png" alt="Dormant About" width="180" />
+  </a>
+</p>
 
 ## Download
 
