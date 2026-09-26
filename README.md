@@ -34,10 +34,10 @@ Click any screenshot to open it full size.
 Current public release:
 
 - Version: `1.0.0`
-- Direct APK: [app-release.apk](https://github.com/ilyassbourass/Dormant-Releases/releases/download/v1.0.0/app-release.apk)
-- Release page: [Dormant v1.0.0](https://github.com/ilyassbourass/Dormant-Releases/releases/tag/v1.0.0)
+- Direct APK: [app-release.apk](https://github.com/ilyassbourass/Dormant/releases/download/v1.0.0/app-release.apk)
+- Release page: [Dormant v1.0.0](https://github.com/ilyassbourass/Dormant/releases/tag/v1.0.0)
 
-1. Open the [Releases](https://github.com/ilyassbourass/Dormant-Releases/releases) page.
+1. Open the [Releases](https://github.com/ilyassbourass/Dormant/releases) page.
 2. Download the latest `app-release.apk`.
 3. If Android asks, allow installation from your browser or files app.
 
